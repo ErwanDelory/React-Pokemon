@@ -15,7 +15,9 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 ### To Start Server:
 
-`npm start`  
+`npm start`
+and
+`npm run start:api`
 
 ### To Visit App:
 
