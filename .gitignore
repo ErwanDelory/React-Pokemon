@@ -1,3 +1,10 @@
+# Remove folder node_modules
 node_modules
+# Remove file .DS_Store
 .DS_Store
+# Remove folder build
 build
+# Remove files for Firebase
+.firebase
+.firebaserc
+firebase.json
